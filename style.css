@@ -89,7 +89,7 @@
     content: "";
     display: block;
     position: absolute;
-    background: url(../fear.png);
+    /* background: url(../fear.png); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
